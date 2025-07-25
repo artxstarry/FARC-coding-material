@@ -8,3 +8,4 @@ Our code consists of:
 - Motors code (another 2x Motors)
 - Servo code (2x Servo, one switches position, one sets degrees)
 Lib used: PS2X_lib.h (from esp32 Makerbot, github.com/makerviet), Adafruit_PWMServoDriver.h (included)
+(Head to discussions for Q&A)
