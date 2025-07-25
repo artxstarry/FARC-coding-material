@@ -1,6 +1,7 @@
 # FARC-coding-material
 Code used by team FU0171 - VELO-REX for FARC finals hosted at FPTU Ha Noi.
-Feel free to use the code if you are struggling with coding your Robot
+Coded in Arduino IDE.
+Feel free to use the code if you are struggling with coding your Robot.
 Our code consists of:
 - Controller inputs (Registering keys connected to parts)
 - Arcade Driving (2 joysticks style, left move for/back, right turn left/right)
